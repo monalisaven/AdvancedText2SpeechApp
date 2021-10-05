@@ -8,4 +8,4 @@ graphical user interface, a back-end that enables the text editing process and t
 text to speech, which will be based on external text to speech libraries. 
 
 version
-java 11.0.11 2021-04-20 LTS
+java 11.0.11 
